@@ -42,9 +42,9 @@
  
 ## Observations based on input/output files
 
-| - | UCS | A* | A* | A*| A*|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **Heuristic** | - | Trivial | Admissible 1 | Admissible 2 | Inadmissible |
-| **Time (ms)** | - | - |  - | - |  - |
-| **Length of the tree**  | No solutions | No solutions | No solutions | No solutions | No solutions |
-| **Cost** | - | - |  - | - | - |
+| - | UCS | A* | A* | A*| A* |  A* optimized | A* optimized | A* optimized | A* optimized | IDA* | IDA* | IDA* | IDA* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: |
+| **Heuristic** | - | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible |
+| **Time (ms)** | - | - |  - | - |  - |  - |  - | - |  - | - |  - | - |  - |
+| **Length of the tree**  | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions |No solutions | No solutions | No solutions | No solutions |
+| **Cost** | - | - |  - | - | - | - |  - | - | - |- |  - | - | - |- |  - | - | - |
