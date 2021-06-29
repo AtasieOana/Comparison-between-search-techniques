@@ -1,0 +1,17 @@
+Solutii obtinute cu A*: 
+
+
+Euristica banala: 
+Nu are solutii!
+
+
+Euristica admisibila 1: 
+Nu are solutii!
+
+
+Euristica admisibila 2: 
+Nu are solutii!
+
+
+Euristica neadmisibila: 
+Nu are solutii!

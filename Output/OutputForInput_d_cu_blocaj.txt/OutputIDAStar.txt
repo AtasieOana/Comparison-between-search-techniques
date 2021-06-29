@@ -1,0 +1,51 @@
+Solutii obtinute cu IDA*: 
+
+
+Euristica banala: 
+Timeout!
+
+
+Euristica admisibila 1: 
+Timeout!
+
+
+Euristica admisibila 2: 
+Timeout!
+
+
+Euristica neadmisibila: 
+Solutie: 1
+1)
+Broscovina se afla pe frunza initiala id1(0,5). Greutate broscuta: 5
+Mormolocel se afla pe frunza initiala id3(1,10). Greutate broscuta: 5
+Vroscutina se afla pe frunza initiala id5(0,9). Greutate broscuta: 6
+Broscutica se afla pe frunza initiala id15(0,9). Greutate broscuta: 5
+Stare frunze: [id0(2,7), id1(0,5), id2(0,9), id3(1,10), id4(1,8), id5(0,9), id6(0,15), id7(1,9), id8(1,10), id9(1,10), id10(1,12), id11(0,10), id12(1,11), id13(0,9), id14(1,11), id15(0,9)]
+
+2)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id1(0,5) la id0(2,7). Greutate broscuta: 4
+Mormolocel a mancat 1 insecte. Mormolocel a sarit de la id3(1,10) la id10(1,12). Greutate broscuta: 5
+Vroscutina a mancat 0 insecte. Vroscutina a sarit de la id5(0,9) la id7(1,9). Greutate broscuta: 5
+Broscutica a mancat 0 insecte. Broscutica a sarit de la id15(0,9) la id14(1,11). Greutate broscuta: 4
+Stare frunze: [id0(2,7), id1(0,5), id2(0,9), id3(0,10), id4(1,8), id5(0,9), id6(0,15), id7(1,9), id8(1,10), id9(1,10), id10(1,12), id11(0,10), id12(1,11), id13(0,9), id14(1,11), id15(0,9)]
+
+3)
+Broscovina a mancat 0 insecte. Broscovina a sarit de la id0(2,7) la mal. Greutate broscuta: 3
+Mormolocel a mancat 1 insecte. Mormolocel a sarit de la id10(1,12) la id4(1,8). Greutate broscuta: 5
+Vroscutina a mancat 0 insecte. Vroscutina a sarit de la id7(1,9) la id6(0,15). Greutate broscuta: 4
+Broscutica a mancat 1 insecte. Broscutica a sarit de la id14(1,11) la id8(1,10). Greutate broscuta: 4
+Stare frunze: [id0(2,7), id1(0,5), id2(0,9), id3(0,10), id4(1,8), id5(0,9), id6(0,15), id7(1,9), id8(1,10), id9(1,10), id10(0,12), id11(0,10), id12(1,11), id13(0,9), id14(0,11), id15(0,9)]
+
+4)
+Mormolocel a mancat 0 insecte. Mormolocel a sarit de la id4(1,8) la mal. Greutate broscuta: 4
+Vroscutina a mancat 0 insecte. Vroscutina a sarit de la id6(0,15) la mal. Greutate broscuta: 3
+Broscutica a mancat 0 insecte. Broscutica a sarit de la id8(1,10) la mal. Greutate broscuta: 3
+Stare frunze: [id0(2,7), id1(0,5), id2(0,9), id3(0,10), id4(1,8), id5(0,9), id6(0,15), id7(1,9), id8(1,10), id9(1,10), id10(0,12), id11(0,10), id12(1,11), id13(0,9), id14(0,11), id15(0,9)]
+
+Cost: 13.35
+Lungime: 4
+Numarul maxim de noduri existente la un moment dat in memorie: 189
+Numarul total de noduri calculate: 1535
+
+Timpul de gasire a solutiei: 5765 milisecunde. 
+---------

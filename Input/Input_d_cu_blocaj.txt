@@ -1,0 +1,18 @@
+7
+Broscovina 5 id1 Mormolocel 5 id3 Vroscutina 6 id5 Broscutica 5 id15
+id0 -6 1 2 7
+id1 -5 0 0 5
+id2 -6 -1 0 9
+id3 -3 2 1 10
+id4 -5 3 1 8
+id5 2 4 0 9
+id6 4 5 0 15
+id7 3 4 1 9
+id8 0 6 1 10
+id9 -2 6 1 10
+id10 -3 3 1 12
+id11 -4 4 0 10
+id12 -2 4 1 11
+id13 -1 5 0 9
+id14 1 5 1 11
+id15 0 4 0 9

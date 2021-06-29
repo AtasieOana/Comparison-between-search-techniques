@@ -1,0 +1,69 @@
+Solutii obtinute cu A* optimizat: 
+
+
+Euristica banala: 
+Solutie: 
+1)
+Broscovina se afla pe mal. Greutate broscuta: 5
+Mormolocel se afla pe mal. Greutate broscuta: 4
+Vroscutina se afla pe mal. Greutate broscuta: 5
+Stare frunze: [id0(0,5), id1(0,5), id2(3,8), id3(0,5)]
+
+Cost: 0
+Lungime: 1
+Numarul maxim de noduri existente la un moment dat in memorie: 0
+Numarul total de noduri calculate: 1
+
+Timpul de gasire a solutiei: 0 milisecunde. 
+---------
+
+
+Euristica admisibila 1: 
+Solutie: 
+1)
+Broscovina se afla pe mal. Greutate broscuta: 5
+Mormolocel se afla pe mal. Greutate broscuta: 4
+Vroscutina se afla pe mal. Greutate broscuta: 5
+Stare frunze: [id0(0,5), id1(0,5), id2(3,8), id3(0,5)]
+
+Cost: 0
+Lungime: 1
+Numarul maxim de noduri existente la un moment dat in memorie: 0
+Numarul total de noduri calculate: 1
+
+Timpul de gasire a solutiei: 0 milisecunde. 
+---------
+
+
+Euristica admisibila 2: 
+Solutie: 
+1)
+Broscovina se afla pe mal. Greutate broscuta: 5
+Mormolocel se afla pe mal. Greutate broscuta: 4
+Vroscutina se afla pe mal. Greutate broscuta: 5
+Stare frunze: [id0(0,5), id1(0,5), id2(3,8), id3(0,5)]
+
+Cost: 0
+Lungime: 1
+Numarul maxim de noduri existente la un moment dat in memorie: 0
+Numarul total de noduri calculate: 1
+
+Timpul de gasire a solutiei: 0 milisecunde. 
+---------
+
+
+Euristica neadmisibila: 
+Solutie: 
+1)
+Broscovina se afla pe mal. Greutate broscuta: 5
+Mormolocel se afla pe mal. Greutate broscuta: 4
+Vroscutina se afla pe mal. Greutate broscuta: 5
+Stare frunze: [id0(0,5), id1(0,5), id2(3,8), id3(0,5)]
+
+Cost: 0
+Lungime: 1
+Numarul maxim de noduri existente la un moment dat in memorie: 0
+Numarul total de noduri calculate: 1
+
+Timpul de gasire a solutiei: 0 milisecunde. 
+---------
