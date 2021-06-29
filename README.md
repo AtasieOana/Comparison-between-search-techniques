@@ -19,6 +19,13 @@
 ### States and transitions
 <div align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Although all jumps are treated as a single move, in performing calculations on weights and insects, frogs jump in order according to their index. The nodes are not created for each frog, but for all the jumps at the same time.
 <div align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A transition is considered to be the consumption of insects on the leaf on which it is located plus a jump on another leaf.
+ 
+## Calling the program
+* The call is made in the console
+* Format: python Frog Escape.py input_path output_path number_solution timeout
+* Call examples: 
+     * python ComparisonBetweenSearchTechniques.py Input Output 1 8 
+     * python ComparisonBetweenSearchTechniques.py Input Output 4 10
 
 
 
