@@ -1,5 +1,5 @@
 # Comparison between search techniques
-**Project developed in Ptyhon, using search algorithms **
+**Project developed in Ptyhon, using search algorithms**
 
 ## Search algorithms used
 * UCS;
