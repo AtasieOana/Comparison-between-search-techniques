@@ -59,3 +59,21 @@
 | **Time (ms)** | 0 | 0 |  0 | 0 |  0 |  0 |  0 | 0 |  0 | 0 |  0 | 0 |  0 |
 | **Length of the tree**  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |1 | 1 | 1 | 1 |
 | **Cost** | 0 | 0 |  0 | 0 | 0 | 0 |  0 | 0 | 0 |0 |  0 | 0 | 0 |0 |  0 | 0 | 0 |
+
+**Input without timeout**
+
+| - | UCS | A* | A* | A*| A* |  A* optimized | A* optimized | A* optimized | A* optimized | IDA* | IDA* | IDA* | IDA* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: |
+| **Heuristic** | - | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible |
+| **Time (ms)** | 61 | 41 | 23 | 8 |  11 |  43 |  26 | 9 |  13 | 129 |  109 | 14 |  29 |
+| **Length of the tree**  | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |3 | 3 | 3 | 3 |
+| **Cost** | 4.17 | 4.17 | 4.17 | 4.17 | 4.17 | 4.17 | 4.17 | 4.17 | 4.17 |4.17 | 4.17 | 4.17 | 4.17 |
+
+**Input with timeout**
+
+| - | UCS | A* | A* | A*| A* |  A* optimized | A* optimized | A* optimized | A* optimized | IDA* | IDA* | IDA* | IDA* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: |
+| **Heuristic** | - | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible |
+| **Time (ms)** | Timeout | 8497 | 7192 | 3510 |  266 |  Timeout |  Timeout | 4170 |  266 | Timeout |  Timeout | Timeout |  6072 |
+| **Length of the tree**  | - | 4 | 4 | 4 | 5 | - | - | 4 | 5 | - | - | - | 4 |
+| **Cost** | - | 12.92 | 12.92 | 12.92 | 14.92 | - | - | 12.92 | 14.92 | - | - | - | 13.35 |
