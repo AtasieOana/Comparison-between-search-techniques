@@ -42,7 +42,7 @@
  
 ## Observations based on input/output files
 
-| - | UCS | A* |
+| - | UCS | A*       ||
 | :---: | :---: | :---: |
 | **Heuristic** | - | Trivial |
 | **Time (ms)** | - | - |
