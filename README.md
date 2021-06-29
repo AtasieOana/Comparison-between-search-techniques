@@ -42,6 +42,6 @@
  
 ## Observations based on input/output files
 
-| Attempt | #1 | #2 |
+| - | #1 | #2 |
 | :---: | :---: | :---: |
 | Seconds | 301 | 283 |
