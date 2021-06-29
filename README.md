@@ -77,3 +77,9 @@
 | **Time (ms)** | Timeout | 8497 | 7192 | 3510 |  266 |  Timeout |  Timeout | 4170 |  266 | Timeout |  Timeout | Timeout |  6072 |
 | **Length of the tree**  | - | 4 | 4 | 4 | 5 | - | - | 4 | 5 | - | - | - | 4 |
 | **Cost** | - | 12.92 | 12.92 | 12.92 | 14.92 | - | - | 12.92 | 14.92 | - | - | - | 13.35 |
+ 
+### Remarks:
+* As can be seen in the last table, the inadmissible heuristic does not always generate the minimum cost path.
+* For the input files tested, the best performing algorithm was A* together with the admissible 2 heuristic. The optimized A* algorithm, for small input files, offers almost the same performance as the A* algorithm, but on larger inputs the complexity due to processing open and closed lists is felt.
+* UCS and IDA* algorithms work well for inputs whose solutions are not deep in the tree.
+
