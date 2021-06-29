@@ -50,3 +50,12 @@
 | **Time (ms)** | - | - |  - | - |  - |  - |  - | - |  - | - |  - | - |  - |
 | **Length of the tree**  | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions | No solutions |No solutions | No solutions | No solutions | No solutions |
 | **Cost** | - | - |  - | - | - | - |  - | - | - |- |  - | - | - |- |  - | - | - |
+
+**Input that receives an initial state that is also final:**
+
+| - | UCS | A* | A* | A*| A* |  A* optimized | A* optimized | A* optimized | A* optimized | IDA* | IDA* | IDA* | IDA* |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: |
+| **Heuristic** | - | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible | Trivial | Admissible 1 | Admissible 2 | Inadmissible |
+| **Time (ms)** | 0 | 0 |  0 | 0 |  0 |  0 |  0 | 0 |  0 | 0 |  0 | 0 |  0 |
+| **Length of the tree**  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |1 | 1 | 1 | 1 |
+| **Cost** | 0 | 0 |  0 | 0 | 0 | 0 |  0 | 0 | 0 |0 |  0 | 0 | 0 |0 |  0 | 0 | 0 |
