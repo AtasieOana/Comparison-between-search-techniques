@@ -2,10 +2,10 @@
 **Project developed in Ptyhon, using search algorithms**
 
 ## Search algorithms used
-* UCS;
-* A* (the option that gives all the way); 
-* A* optimized (with open and closed lists, which gives only the minimum cost way);
-* IDA*;
+* <ins>UCS</ins>;
+* <ins>A*</ins> (the option that gives all the way); 
+* <ins>A* optimized</ins> (with open and closed lists, which gives only the minimum cost way);
+* <ins>IDA*</ins>;
 
 ## The problem used for comparison
 
