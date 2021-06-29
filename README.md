@@ -21,8 +21,9 @@
 <div align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A transition is considered to be the consumption of insects on the leaf on which it is located plus a jump on another leaf.
  
 ## Calling the program
-* The call is made in the console
-* Format: python Frog Escape.py input_path output_path number_solution timeout
+* The call is made in the console.
+* Format: 
+     * python Frog Escape.py input_path output_path number_solution timeout
 * Call examples: 
      * python ComparisonBetweenSearchTechniques.py Input Output 1 8 
      * python ComparisonBetweenSearchTechniques.py Input Output 4 10
