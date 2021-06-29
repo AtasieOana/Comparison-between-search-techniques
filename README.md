@@ -45,6 +45,6 @@
 | - | UCS | A* |
 | :---: | :---: | :---: |
 | **Heuristic** | - | Trivial |
-| Time (ms) | - | - |
-| Length of the tree  | No solutions | No solutions |
-| Cost | - | - |
+| **Time (ms)** | - | - |
+| **Length of the tree**  | No solutions | No solutions |
+| **Cost** | - | - |
