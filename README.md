@@ -46,3 +46,5 @@
 | :---: | :---: | :---: |
 | Heuristic | - | Trivial |
 | Time (ms) | - | - |
+| Length of the tree  | No solutions | No solutions |
+| Cost | - | - |
