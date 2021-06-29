@@ -36,5 +36,7 @@
 * <ins>Inadmissible</ins> - the estimated cost is the sum of the distances from the leaves on which the frogs are to the farthest shore;
 
 ## Validations and optimizations:
-* States are represented as a tuple made up of a list of Frog type objects and a List of ![Leaf](https://github.com/AtasieOana/Comparison-between-search-techniques/blob/main/ComparisonBetweenSearchTechniques.py#L8) type objects.
+* States are represented as a tuple made up of a list of [Frog](https://github.com/AtasieOana/Comparison-between-search-techniques/blob/main/ComparisonBetweenSearchTechniques.py#L40) type objects and a List of [Leaf](https://github.com/AtasieOana/Comparison-between-search-techniques/blob/main/ComparisonBetweenSearchTechniques.py#L8) type objects.
+* To determine the validity of the input file it is checked if the second line in the file is divisible by 3, so that the frogs each receive three parameters (name, weight, leaf identifier) and if the following lines have 5 elements for leaves (leaf identifier, x coordinate, y coordinate, number of insects, maximum weight).
+* To determine if no solutions can be generated from the initial state, it is checked if each frog has at least one leaf on which it can jump or if the frog can jump ashore. Otherwise, there are no solutions for that initial state
  
