@@ -36,5 +36,5 @@
 * <ins>Inadmissible</ins> - the estimated cost is the sum of the distances from the leaves on which the frogs are to the farthest shore;
 
 ## Validations and optimizations:
-* States are represented as a tuple made up of a list of Frog type objects and a List of ![Leaf]https://github.com/AtasieOana/Comparison-between-search-techniques/blob/main/ComparisonBetweenSearchTechniques.py#L8 type objects.
+* States are represented as a tuple made up of a list of Frog type objects and a List of ![Leaf](https://github.com/AtasieOana/Comparison-between-search-techniques/blob/main/ComparisonBetweenSearchTechniques.py#L8) type objects.
  
