@@ -34,4 +34,7 @@
 * <div align="justify"> <ins>Admissible 1</ins>- the estimated cost is the minimum distance from the leaves on which the frogs are to the nearest shore (heuristic is permissible because all frogs must reach the shore and can not reach shore in a distance less than this minimum, in the first row because the rest of the frogs will have a longer distance to the shore and, secondly, the actual distance from the leaf that generates the minimum to the shore is greater than or equal to the estimated / direct distance);
 * <div align="justify"> <ins>Admissible 2</ins>- the estimated cost is the maximum distance from the leaves on which the frogs are located to the nearest shore (heuristic is permissible because all frogs must reach the shore and cannot reach it in a distance less than the maximum, because the distance from the leaf that generates the maximum to the shore is greater than or equal to the estimated / direct distance);
 * <ins>Inadmissible</ins> - the estimated cost is the sum of the distances from the leaves on which the frogs are to the farthest shore;
+
+## Validations and optimizations:
+* States are represented as a tuple made up of a list of Frog type objects and a List of ![Leaf]https://github.com/AtasieOana/Comparison-between-search-techniques/blob/main/ComparisonBetweenSearchTechniques.py#L8 type objects.
  
